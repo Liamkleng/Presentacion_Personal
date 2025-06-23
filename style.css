@@ -1,0 +1,11 @@
+/* fondo de la pagina */
+
+body {
+    
+    background-color: #455dd4;    /* color fondo */
+    color: #f8f8f8; /* texto */
+    font-family: 'Arial', sans-serif; /* tipo de letra */
+    padding: 20px; /* espacio entre el borde y el contenido */
+    text-align: center; /* centrado del texto */
+
+}
