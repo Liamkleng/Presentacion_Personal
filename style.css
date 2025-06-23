@@ -1,11 +1,21 @@
-/* fondo de la pagina */
+/* fondo de la pagina     --  body CAMBIA TODO DE LA PAGINA !*/
 
 body {
     
     background-color: #455dd4;    /* color fondo */
-    color: #f8f8f8; /* texto */
+    color: #000000; /* texto */
     font-family: 'Arial', sans-serif; /* tipo de letra */
     padding: 20px; /* espacio entre el borde y el contenido */
     text-align: center; /* centrado del texto */
+
+}
+
+.Tarjeta {
+
+    background-color: #fff; /* color fondo */
+    width: 250px; /* ancho de la tarjeta */
+    margin: 40px auto; /* margen de arriba y abajo, centrado horizontal */
+    padding : 20px; /* espacio entre el borde y el contenido */
+    
 
 }
